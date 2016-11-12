@@ -1,12 +1,9 @@
 package paint.view;
 
 import paint.model.ColorPoint;
-
-import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import static javax.swing.SwingUtilities.invokeLater;
