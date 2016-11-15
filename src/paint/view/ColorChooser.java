@@ -4,8 +4,6 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.event.*;
 
-
-/* ColorChooserDemo.java requires no other files. */
 public class ColorChooser extends JPanel
         implements ChangeListener {
 
